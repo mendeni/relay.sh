@@ -1,4 +1,1 @@
-# relay.sh
-Relay.sh Quickstart Tutorial
-
-https://relay.sh/docs/getting-started/
+Moved to https://gitlab.com/steven.e.wilson/relay.sh
